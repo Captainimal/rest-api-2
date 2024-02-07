@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/banyucenter/apprestapi.git"
+    "url": "https://github.com/Captainimal/rest-api-2.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/banyucenter/apprestapi/issues"
+    "url": "https://github.com/Captainimal/apprestapi/issues"
   },
-  "homepage": "https://github.com/banyucenter/apprestapi#readme",
+  "homepage": "https://github.com/Captainimal/apprestapi#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
